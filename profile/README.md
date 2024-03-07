@@ -15,3 +15,5 @@ Here are the components around Tracehub:
 * [/vsheets](https://github.com/tracehubpm/vsheets): Validation XSL sheets for project artifacts.
 
 In each repository we have a list of issues we want to implement. You can help!
+
+BTW, [here](https://github.com/tracehubpm/ideas) we keep all the future ideas that would be nice to have eventually.
