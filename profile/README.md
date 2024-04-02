@@ -4,6 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tracehubpm/tracehub/blob/master/LICENSE.txt)
 [![Stars](https://img.shields.io/github/stars/tracehubpm)](https://github.com/tracehubpm)
+[![Telegram](https://img.shields.io/badge/Telegram-join-active?logo=telegram)](https://t.me/tracehub)
 
 Tracehub is a configured [Project as a Code](https://h1alexbel.github.io/2023/10/22/project-as-a-code.html) environment for your software projects.
 
