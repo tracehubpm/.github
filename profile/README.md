@@ -13,7 +13,7 @@ Here are the components around Tracehub:
 * [/tracehub](https://github.com/tracehubpm/tracehub): Tracehub and Project as a Code, a VCS-based collaboration tool, and its GitHub/GitLab/JIRA Agents.
 * [/pmo](https://github.com/tracehubpm/pmo): Project registry, facilities and home for your projects.
 * [/pmo-java-sdk](https://github.com/tracehubpm/pmo-java-sdk): Java SDK for Tracehub PMO RESTful API.
-* [/vsheets](https://github.com/tracehubpm/vsheets): Validation XSL sheets for project artifacts.
+* [/reports-check-action](https://github.com/tracehubpm/reports-check-action): Bug Reports (GitHub issues) quality checker.
 
 In each repository we have a list of issues we want to implement. You can help!
 
